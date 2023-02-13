@@ -10,3 +10,6 @@
 
 ## How to Receive Data: 
 The data coming back for all three routes consists of an array of JSON data which contains users and their sticky note data
+
+
+## UML Diagram
