@@ -13,3 +13,4 @@ The data coming back for all three routes consists of an array of JSON data whic
 
 
 ## UML Diagram
+![UML](https://user-images.githubusercontent.com/81662359/218595394-5c410afe-423e-48bb-856d-6239852c7ec5.png)
